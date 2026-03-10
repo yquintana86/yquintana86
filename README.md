@@ -69,13 +69,13 @@ My focus is on **clean architecture, maintainability, and performance**, creatin
 
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yquintana86&show_icons=true&theme=tokyonight)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yquintana86&show_icons=true&theme=tokyonight)](https://github.com/yquintana86)
 
 ---
 
 # 🔥 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yquintana86&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yquintana86&layout=compact&theme=tokyonight)](https://github.com/yquintana86)
 
 ---
 
